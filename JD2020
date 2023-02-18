@@ -1,0 +1,2 @@
+local key = "420"
+return key
